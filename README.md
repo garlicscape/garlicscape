@@ -1,13 +1,13 @@
 <div align=center>
 
-### 안녕하세요! 🙋‍♀️
+### HI, WELCOME! 🙋‍♀️
 
-##### 기본기를 다지고 있는 프론트엔드 주니어 개발자입니다. <br><br> 편리한 UI/UX에 대한 감각을 익히고 있으며 <br><br> 협업에 능숙한 개발자가 되도록 노력 중입니다. <br><br> 🏃‍♀️
+#### 🔸 Junior Front-End Developer <br><br> I'm learning a sense of convenient UI/UX <br> and trying to be a good developer for collaboration. <br><br> 🏃‍♀️
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsgul326482@gmail.com)](wlsgul326@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8ee0e4aeedc74ae384b6d4377337b030)](https://www.notion.so/8ee0e4aeedc74ae384b6d4377337b030)
 
-  <hr><br>
+  <hr>
   
   #### 💻 TECH STACK
   
