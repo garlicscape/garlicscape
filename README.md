@@ -4,7 +4,7 @@
 
 #### 🔸 Junior Front-End Developer <br><br> I'm learning a sense of convenient UI/UX <br> and trying to be a good developer for collaboration. <br><br> 🏃‍♀️
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsgul326482@gmail.com)](wlsgul326@gmail.com)
+  <a href="mailto:wlsgul326@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:wlsgul326@gmail.com"/></a>
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8ee0e4aeedc74ae384b6d4377337b030)](https://www.notion.so/8ee0e4aeedc74ae384b6d4377337b030)
 
   <hr>
@@ -19,12 +19,12 @@
 
   <img alt="react" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> 
   <img alt="firebase" src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
-  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <br><br>
+  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <br>
 
   #### 🛠 TOOL
   <img alt="visualstudiocode" src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
   <img alt="git" src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> 
-  <img alt="sourcetree" src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> <br><br>
+  <img alt="sourcetree" src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> <br>
   
   #### 💡 STUDYING
 
